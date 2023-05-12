@@ -239,8 +239,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint"
 
 # Archives
 #  Type
